@@ -1,6 +1,6 @@
 # skynode-webap-example1
 
-An universal nodejs server module.
+A webap example using skynode server.
 
 ## Installation
 
