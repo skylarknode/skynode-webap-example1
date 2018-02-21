@@ -23,7 +23,8 @@
      },
      "slaxes" : {
        "paths" :[
-         { "mapping": "/chapters","dir" : "./frontend/chapters"}
+         { "mapping": "","dir" : "./frontend/chapters"},
+         { "mapping": "/admin","dir" : "./frontend/chapters"}
        ]
      },
      "custom"  : "./backend/routes"
